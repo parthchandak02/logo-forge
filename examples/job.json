@@ -1,0 +1,10 @@
+{
+  "image": "logo.png",
+  "brief": "Neighbourhood coffee roaster in Portland; bike delivery, rainy mornings, single-origin beans",
+  "styles": ["mono-minimal", "letterpress", "neon-sign", "axis:format", "hand-painted on a ceramic mug"],
+  "auto": 6,
+  "variants": 1,
+  "size": "2K",
+  "review": true,
+  "out": "out"
+}

@@ -1,0 +1,7 @@
+# Your own jobs and generated images stay local
+jobs/
+out/
+.env
+.env.*
+__pycache__/
+.DS_Store
